@@ -1,0 +1,1 @@
+const CONFIG={"id": "paulqc-tdg-logos-20260929", "title": "TD / TDG Logo QC", "store": "https://textdb.dev/api/data/qc-f9238ceb466f3d9755db6a6c"};
